@@ -1,0 +1,74 @@
+{
+  "papers": [
+    {
+      "title": "Deep Residual Network in Network",
+      "authors": ["Hmidi Alaeddine", "Malek Jihene"],
+      "year": 2021,
+      "doi": "10.1155/2021/6659083",
+      "url": "https://doi.org/10.1155/2021/6659083"
+    },
+    {
+      "title": "Efficient training and improved performance of multilayer perceptron in pattern classification",
+      "authors": ["B.B. Chaudhuri", "U. Bhattacharya"],
+      "year": 2000,
+      "doi": "10.1016/S0925-2312(00)00305-2",
+      "url": "https://doi.org/10.1016/S0925-2312(00)00305-2"
+    },
+    {
+      "title": "Technique of learning rate estimation for efficient training of MLP",
+      "authors": ["Vladimir Golovko", "Yury Savitsky", "T. Laopoulos", "A. Sachenko", "L. Grandinetti"],
+      "year": 2000,
+      "doi": "10.1109/IJCNN.2000.857856",
+      "url": "https://doi.org/10.1109/IJCNN.2000.857856"
+    },
+    {
+      "title": "A Comprehensive Survey on Kolmogorov Arnold Networks (KAN)",
+      "authors": ["Tianrui Ji", "Yuntian Hou", "Di Zhang"],
+      "year": 2025,
+      "doi": "10.48550/arXiv.2407.11075",
+      "url": "https://doi.org/10.48550/arXiv.2407.11075"
+    },
+    {
+      "title": "KAN: Kolmogorov–Arnold Networks",
+      "authors": ["Ziming Liu", "Yixuan Wang", "Sachin Vaidya", "Fabian Ruehle", "James Halverson", "Marin Soljačić", "Thomas Y. Hou", "Max Tegmark"],
+      "year": 2024,
+      "doi": "10.48550/arXiv.2404.19756",
+      "url": "https://doi.org/10.48550/arXiv.2404.19756"
+    },
+    {
+      "title": "PowerMLP: An Efficient Version of KAN",
+      "authors": ["Ruichen Qiu", "Yibo Miao", "Shiwen Wang", "Yifan Zhu", "Lijia Yu", "Xiao-Shan Gao"],
+      "year": 2025,
+      "doi": "10.1609/aaai.v39i19.34210",
+      "url": "https://doi.org/10.1609/aaai.v39i19.34210"
+    },
+    {
+      "title": "A lightweight multi-layer perceptron for efficient multivariate time series forecasting",
+      "authors": ["Zhenghong Wang", "Sijie Ruan", "Tianqiang Huang", "Haoyi Zhou", "Shanghang Zhang", "Yi Wang", "Leye Wang", "Zhou Huang", "Yu Liu"],
+      "year": 2024,
+      "doi": "10.1016/j.knosys.2024.111463",
+      "url": "https://doi.org/10.1016/j.knosys.2024.111463"
+    },
+    {
+      "title": "Kolmogorov-Arnold Networks for Time Series: Bridging Predictive Power and Interpretability",
+      "authors": ["Kunpeng Xu", "Lifei Chen", "Shengrui Wang"],
+      "year": 2024,
+      "doi": "10.48550/arXiv.2406.02496",
+      "url": "https://doi.org/10.48550/arXiv.2406.02496"
+    },
+    {
+      "title": "Successfully and efficiently training deep multi-layer perceptrons with logistic activation function simply requires initializing the weights with an appropriate negative mean",
+      "authors": ["Ahmet Yilmaz", "Riccardo Poli"],
+      "year": 2022,
+      "doi": "10.1016/j.neunet.2022.05.030",
+      "url": "https://doi.org/10.1016/j.neunet.2022.05.030"
+    },
+    {
+      "title": "Residual Kolmogorov-Arnold Network for Enhanced Deep Learning",
+      "authors": ["Ray Congrui Yu", "Sherry Wu", "Jiang Gui"],
+      "year": 2024,
+      "doi": "10.48550/arXiv.2410.05500",
+      "url": "https://doi.org/10.48550/arXiv.2410.05500"
+    }
+  ]
+}
